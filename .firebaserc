@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "blissful-ly"
+  },
+  "targets": {
+    "blissful-ly": {
+      "hosting": {
+        "urbanyogi": [
+          "urbanyogi"
+        ]
+      }
+    }
+  }
+}
